@@ -1,0 +1,19 @@
+{
+  "songs": [
+    {
+      "id": "a9c4e5cb-b797-4f16-ad8f-c65c7fe01146",
+      "title": "Lonely (broken angle)",
+      "artist": "Broken angle",
+      "album": "Unknown Album",
+      "duration": 191.111837,
+      "filename": "f47c54e7-6ac2-4ab9-98a2-adcdb8f7a949.mp3",
+      "url": "/uploads/f47c54e7-6ac2-4ab9-98a2-adcdb8f7a949.mp3",
+      "cover": null,
+      "createdAt": "2026-05-13T08:19:12.135Z"
+    }
+  ],
+  "playlists": [],
+  "liked": [
+    "a9c4e5cb-b797-4f16-ad8f-c65c7fe01146"
+  ]
+}
